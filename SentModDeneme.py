@@ -1,0 +1,9 @@
+import sentiment_mod as s
+#
+# print(s.sentiment("Oh my God! This movie was super cool. The actors and acrtriesses played so well. Sounds are good, but some scenes were not that good."))
+# print(s.sentiment("I don't know but this was not that good. Acting was bad, scenes are boring. Looks like the art director haven't done his job properly. Meh!"))
+# print(s.sentiment("The screen of the phone is ok for its price. Battery last more than one day which is good for 3500 mAh. Single core performance is enough for daily usage. It won't disappoint you. I like the user interface, it has some fluent animations. It is very responsive."))
+# print(s.sentiment("Simply: Don't buy this phone! It's so expensive for its price. The screen is terrible, you can count the pixels. Battery doesn't last even a day. Processor performance is bad, especially multicore. You can't play high end game on this phone. I don't recommed."))
+# print(s.sentiment("This phone is not that good but it is acceptable for its segment. The camera is decent. You can take good photos if the light is good. But when it is night, you can see the noise. You won't get good results in low light. Screen is average. Processor performans is good for daily usage. The build quality is nice. You can buy if you just have 350$."))
+
+print(s.sentiment("This product never worked properly. the phone suffered from freezing and screen glitches. i contacted the seller quickly after purchase and they refused to exchange the product. Disappointed, i took the phone to an iphone specialist and found out it had been rebuilt with incorrect components. Since then i have spent $300 dollar in repair costs. Now after taking my phone to a different repair specialist because of a faulty volume button i will need to spend an additional $100 dollars to fix a non mechanical wiring issue . I cant speak for others, but i was ripped off."))
